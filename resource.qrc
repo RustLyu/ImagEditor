@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/edit_Img.png</file>
+        <file>Resource/editPngState.png</file>
+        <file>Resource/editTextState.png</file>
+        <file>Resource/help.png</file>
+        <file>Resource/openBack.png</file>
+        <file>Resource/openTop.png</file>
+        <file>Resource/refresh.png</file>
+        <file>Resource/save.png</file>
+        <file>Resource/setMile.png</file>
+        <file>Resource/flag.png</file>
+        <file>Resource/TextPos.png</file>
+        <file>Resource/forbidEdit.png</file>
+        <file>Resource/cross.png</file>
+        <file>Resource/node.png</file>
+        <file>Resource/line.png</file>
+        <file>Resource/cut.png</file>
+        <file>Resource/clip.png</file>
+        <file>Resource/open_dir.png</file>
+        <file>Resource/processs.png</file>
+    </qresource>
+</RCC>

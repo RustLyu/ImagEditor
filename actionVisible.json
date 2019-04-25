@@ -1,0 +1,12 @@
+{
+	"MainWindow":
+    {
+        "m_save":true,
+        "m_forbidEdit":true,
+        "m_editPolygon":true,
+		"m_editText":true,
+		"m_editMile":true,
+		"m_editLine":true,
+		"m_saveTopImg":true
+    }
+}
